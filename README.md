@@ -1,5 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmadchakcha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadchakcha" /> </p>
-<h1 align="center">Hi 👋, I'm Ahmad Chakhcha</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Chakcha</h1>
 <p align="center"> A technology student interested in software development and data. I enjoy working with code and exploring how data can solve real-world problems. Always ready to learn and take on new challenges!</p>
 
 <h3 align="left">Languages and Tools:</h3>
